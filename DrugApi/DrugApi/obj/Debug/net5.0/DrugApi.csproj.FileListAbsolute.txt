@@ -1,0 +1,323 @@
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.json
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.exe
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.deps.json
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.json
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.dev.json
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.pdb
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csprojAssemblyReference.cache
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfoInputs.cache
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfo.cs
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CoreCompileInputs.cache
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.Manifest.cache
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.xml
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\scopedcss\bundle\DrugApi.styles.css
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.RazorTargetAssemblyInfo.cache
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CopyComplete
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.pdb
+C:\Users\899107\source\repos\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.genruntimeconfig.cache
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\log4net.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899107\source\repos\DrugApi\DrugApi\bin\Debug\net5.0\log4net.config
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csprojAssemblyReference.cache
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfoInputs.cache
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfo.cs
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CoreCompileInputs.cache
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.pdb
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\log4net.config
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.json
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.exe
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.deps.json
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.json
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.dev.json
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.pdb
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\log4net.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.Manifest.cache
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.xml
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\scopedcss\bundle\DrugApi.styles.css
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.RazorTargetAssemblyInfo.cache
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CopyComplete
+C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.genruntimeconfig.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\log4net.config
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.exe
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.deps.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.dev.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.pdb
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\log4net.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.AssemblyReference.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfoInputs.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfo.cs
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CoreCompileInputs.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.Manifest.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.xml
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\scopedcss\bundle\DrugApi.styles.css
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.RazorTargetAssemblyInfo.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CopyComplete
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.pdb
+C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.genruntimeconfig.cache
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\log4net.config
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.json
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.exe
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.deps.json
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.json
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.dev.json
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.pdb
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\log4net.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csprojAssemblyReference.cache
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfoInputs.cache
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfo.cs
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CoreCompileInputs.cache
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.Manifest.cache
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.xml
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\scopedcss\bundle\DrugApi.styles.css
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.RazorTargetAssemblyInfo.cache
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CopyComplete
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.pdb
+C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.genruntimeconfig.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\log4net.config
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.exe
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.deps.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.dev.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.pdb
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\log4net.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.AssemblyReference.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfoInputs.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfo.cs
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CoreCompileInputs.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.Manifest.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.xml
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\scopedcss\bundle\DrugApi.styles.css
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.RazorTargetAssemblyInfo.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CopyComplete
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.pdb
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.genruntimeconfig.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\log4net.config
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.exe
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.deps.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.dev.json
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.pdb
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\log4net.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.AssemblyReference.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfoInputs.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfo.cs
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CoreCompileInputs.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.Manifest.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.xml
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\scopedcss\bundle\DrugApi.styles.css
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.RazorTargetAssemblyInfo.cache
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CopyComplete
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\ref\DrugApi.dll
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.pdb
+C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.genruntimeconfig.cache
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\log4net.config
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.Development.json
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\appsettings.json
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.api.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\nunit.engine.core.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.exe
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.deps.json
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.json
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.runtimeconfig.dev.json
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\ref\DrugApi.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\DrugApi.pdb
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\log4net.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\nunit.framework.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfoInputs.cache
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.AssemblyInfo.cs
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CoreCompileInputs.cache
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cs
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.MvcApplicationPartsAssemblyInfo.cache
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.Manifest.cache
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\staticwebassets\DrugApi.StaticWebAssets.xml
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\scopedcss\bundle\DrugApi.styles.css
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.RazorTargetAssemblyInfo.cache
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.CopyComplete
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\ref\DrugApi.dll
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.pdb
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.genruntimeconfig.cache
+F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi\obj\Debug\net5.0\DrugApi.csproj.AssemblyReference.cache

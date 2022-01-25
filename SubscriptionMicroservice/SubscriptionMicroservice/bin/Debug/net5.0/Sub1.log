@@ -1,0 +1,326 @@
+INFO  04:10:04 Application started. Press Ctrl+C to shut down.
+INFO  04:10:04 Application started. Press Ctrl+C to shut down.
+INFO  04:10:04 Hosting environment: Development
+INFO  04:10:04 Hosting environment: Development
+INFO  04:10:04 Content root path: C:\Users\899107\Downloads\Mini project\MailOrderPharmacyFinal-main\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:10:04 Content root path: C:\Users\899107\Downloads\Mini project\MailOrderPharmacyFinal-main\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:16:39 Application started. Press Ctrl+C to shut down.
+INFO  04:16:39 Application started. Press Ctrl+C to shut down.
+INFO  04:16:39 Hosting environment: Development
+INFO  04:16:39 Hosting environment: Development
+INFO  04:16:39 Content root path: C:\Users\899107\Downloads\Mini project\MailOrderPharmacyFinal-main\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:16:39 Content root path: C:\Users\899107\Downloads\Mini project\MailOrderPharmacyFinal-main\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  06:36:20 Application started. Press Ctrl+C to shut down.
+INFO  06:36:20 Application started. Press Ctrl+C to shut down.
+INFO  06:36:20 Hosting environment: Development
+INFO  06:36:20 Hosting environment: Development
+INFO  06:36:20 Content root path: C:\Users\899074\Downloads\SM\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  06:36:20 Content root path: C:\Users\899074\Downloads\SM\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  06:39:41 Hi
+INFO  07:21:06 Application started. Press Ctrl+C to shut down.
+INFO  07:21:06 Application started. Press Ctrl+C to shut down.
+INFO  07:21:06 Hosting environment: Development
+INFO  07:21:06 Hosting environment: Development
+INFO  07:21:06 Content root path: C:\Users\899074\Downloads\SM\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  07:21:06 Content root path: C:\Users\899074\Downloads\SM\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  07:28:06 Application started. Press Ctrl+C to shut down.
+INFO  07:28:06 Application started. Press Ctrl+C to shut down.
+INFO  07:28:06 Hosting environment: Development
+INFO  07:28:06 Hosting environment: Development
+INFO  07:28:06 Content root path: C:\Users\899074\Downloads\SM\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  07:28:06 Content root path: C:\Users\899074\Downloads\SM\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  07:37:38 Application started. Press Ctrl+C to shut down.
+INFO  07:37:39 Application started. Press Ctrl+C to shut down.
+INFO  07:37:39 Hosting environment: Development
+INFO  07:37:39 Hosting environment: Development
+INFO  07:37:39 Content root path: C:\Users\899074\Downloads\SM\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  07:37:39 Content root path: C:\Users\899074\Downloads\SM\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  08:24:45 Application started. Press Ctrl+C to shut down.
+INFO  08:24:45 Application started. Press Ctrl+C to shut down.
+INFO  08:24:45 Hosting environment: Development
+INFO  08:24:45 Hosting environment: Development
+INFO  08:24:45 Content root path: C:\Users\899074\Downloads\SM\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  08:24:45 Content root path: C:\Users\899074\Downloads\SM\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  05:31:35 Application started. Press Ctrl+C to shut down.
+INFO  05:31:35 Application started. Press Ctrl+C to shut down.
+INFO  05:31:35 Hosting environment: Development
+INFO  05:31:35 Hosting environment: Development
+INFO  05:31:35 Content root path: C:\Users\899617\Downloads\SubscriptionMicroservice\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  05:31:35 Content root path: C:\Users\899617\Downloads\SubscriptionMicroservice\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  08:05:01 Application started. Press Ctrl+C to shut down.
+INFO  08:05:01 Application started. Press Ctrl+C to shut down.
+INFO  08:05:01 Hosting environment: Development
+INFO  08:05:01 Hosting environment: Development
+INFO  08:05:01 Content root path: C:\Users\899617\Downloads\SubscriptionMicroservice\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  08:05:01 Content root path: C:\Users\899617\Downloads\SubscriptionMicroservice\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:25:33 Application started. Press Ctrl+C to shut down.
+INFO  01:25:33 Application started. Press Ctrl+C to shut down.
+INFO  01:25:33 Hosting environment: Development
+INFO  01:25:33 Hosting environment: Development
+INFO  01:25:33 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:25:33 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:26:59 Application started. Press Ctrl+C to shut down.
+INFO  01:26:59 Application started. Press Ctrl+C to shut down.
+INFO  01:26:59 Hosting environment: Development
+INFO  01:26:59 Hosting environment: Development
+INFO  01:26:59 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:26:59 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:47:27 Application started. Press Ctrl+C to shut down.
+INFO  01:47:27 Application started. Press Ctrl+C to shut down.
+INFO  01:47:27 Hosting environment: Development
+INFO  01:47:27 Hosting environment: Development
+INFO  01:47:27 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:47:27 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:49:15 Subscription Details will not be addedSystem.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:44315))
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44315)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at SubscriptionMicroservice.Repository.SubscriptionRepository.SubscribeRepo(MemberPrescription prescriptionDetails) in C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\SubscriptionMicroservice\SubscriptionMicroservice\Repository\SubscriptionRepository.cs:line 33
+INFO  09:24:17 Application started. Press Ctrl+C to shut down.
+INFO  09:24:17 Application started. Press Ctrl+C to shut down.
+INFO  09:24:17 Hosting environment: Development
+INFO  09:24:17 Hosting environment: Development
+INFO  09:24:17 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  09:24:17 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  09:24:57 Subscription Details will not be addedSystem.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:44315))
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44315)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at SubscriptionMicroservice.Repository.SubscriptionRepository.SubscribeRepo(MemberPrescription prescriptionDetails) in C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\SubscriptionMicroservice\SubscriptionMicroservice\Repository\SubscriptionRepository.cs:line 33
+INFO  09:25:01 Subscription Details will not be addedSystem.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:44315))
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44315)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at SubscriptionMicroservice.Repository.SubscriptionRepository.SubscribeRepo(MemberPrescription prescriptionDetails) in C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\SubscriptionMicroservice\SubscriptionMicroservice\Repository\SubscriptionRepository.cs:line 33
+INFO  01:10:31 Application started. Press Ctrl+C to shut down.
+INFO  01:10:31 Application started. Press Ctrl+C to shut down.
+INFO  01:10:31 Hosting environment: Development
+INFO  01:10:31 Hosting environment: Development
+INFO  01:10:31 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:10:31 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:54:45 Application started. Press Ctrl+C to shut down.
+INFO  01:54:45 Application started. Press Ctrl+C to shut down.
+INFO  01:54:45 Hosting environment: Development
+INFO  01:54:45 Hosting environment: Development
+INFO  01:54:45 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:54:45 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:56:05 getting refill frequency with subscription id 1
+INFO  02:01:37 refill frequency is not updated in subscription id7
+INFO  02:05:00 refill frequency is not updated in subscription id7
+INFO  02:05:23 refill frequency is not updated in subscription id7
+INFO  02:40:06 Application started. Press Ctrl+C to shut down.
+INFO  02:40:06 Application started. Press Ctrl+C to shut down.
+INFO  02:40:06 Hosting environment: Development
+INFO  02:40:06 Hosting environment: Development
+INFO  02:40:06 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  02:40:06 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  03:25:32 refill frequency is not updated in subscription id6
+INFO  03:27:37 refill frequency is not updated in subscription id6
+INFO  04:08:08 Application started. Press Ctrl+C to shut down.
+INFO  04:08:08 Application started. Press Ctrl+C to shut down.
+INFO  04:08:09 Hosting environment: Development
+INFO  04:08:09 Hosting environment: Development
+INFO  04:08:09 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:08:09 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:17:43 Application started. Press Ctrl+C to shut down.
+INFO  04:17:43 Application started. Press Ctrl+C to shut down.
+INFO  04:17:43 Hosting environment: Development
+INFO  04:17:43 Hosting environment: Development
+INFO  04:17:43 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:17:43 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:39:31 Application started. Press Ctrl+C to shut down.
+INFO  04:39:31 Application started. Press Ctrl+C to shut down.
+INFO  04:39:31 Hosting environment: Development
+INFO  04:39:31 Hosting environment: Development
+INFO  04:39:31 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:39:31 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:44:45 Application started. Press Ctrl+C to shut down.
+INFO  04:44:45 Application started. Press Ctrl+C to shut down.
+INFO  04:44:45 Hosting environment: Development
+INFO  04:44:45 Hosting environment: Development
+INFO  04:44:45 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:44:45 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:45:49 Subscription Details will be added
+INFO  04:46:34 Subscription Details will be added
+INFO  04:53:07 Application started. Press Ctrl+C to shut down.
+INFO  04:53:07 Application started. Press Ctrl+C to shut down.
+INFO  04:53:07 Hosting environment: Development
+INFO  04:53:07 Hosting environment: Development
+INFO  04:53:07 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:53:07 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:53:28 Subscription Details will be added
+INFO  04:53:32 Subscription Details will be added
+INFO  04:57:50 Application started. Press Ctrl+C to shut down.
+INFO  04:57:50 Application started. Press Ctrl+C to shut down.
+INFO  04:57:50 Hosting environment: Development
+INFO  04:57:50 Hosting environment: Development
+INFO  04:57:50 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:57:50 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  05:02:16 Subscription Details will be added
+INFO  05:02:41 Subscription Details will be added
+INFO  05:05:24 Subscription Details will be added
+INFO  05:08:34 Subscription Details will be added
+INFO  05:14:46 Application started. Press Ctrl+C to shut down.
+INFO  05:14:46 Application started. Press Ctrl+C to shut down.
+INFO  05:14:46 Hosting environment: Development
+INFO  05:14:46 Hosting environment: Development
+INFO  05:14:46 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  05:14:46 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+ERROR 05:16:03 An unhandled exception has occurred while executing the request.
+System.Exception: subscription failed
+   at SubscriptionMicroservice.Controllers.SubcriptionController.Subscribe(MemberPrescription prescriptiondetails) in C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice\Controllers\SubcriptionController.cs:line 41
+   at lambda_method6(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:16:03 An unhandled exception has occurred while executing the request.
+System.Exception: subscription failed
+   at SubscriptionMicroservice.Controllers.SubcriptionController.Subscribe(MemberPrescription prescriptiondetails) in C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice\Controllers\SubcriptionController.cs:line 41
+   at lambda_method6(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  05:20:19 Application started. Press Ctrl+C to shut down.
+INFO  05:20:19 Application started. Press Ctrl+C to shut down.
+INFO  05:20:19 Hosting environment: Development
+INFO  05:20:19 Hosting environment: Development
+INFO  05:20:19 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  05:20:19 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  05:22:14 Subscription Details will be added
+INFO  05:22:28 Subscription Details will be added
+INFO  11:31:27 Application started. Press Ctrl+C to shut down.
+INFO  11:31:27 Application started. Press Ctrl+C to shut down.
+INFO  11:31:27 Hosting environment: Development
+INFO  11:31:27 Hosting environment: Development
+INFO  11:31:27 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  11:31:27 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  11:47:05 Subscription Details will be added
+INFO  11:55:35 Subscription Details will be added
+INFO  11:55:42 Subscription Details will be added
+INFO  11:58:03 Subscription Details will be added
+INFO  12:04:38 Subscription Details will be added
+INFO  09:03:11 Application started. Press Ctrl+C to shut down.
+INFO  09:03:11 Application started. Press Ctrl+C to shut down.
+INFO  09:03:11 Hosting environment: Development
+INFO  09:03:11 Hosting environment: Development
+INFO  09:03:11 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  09:03:11 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  09:08:57 Subscription Details will be added
+INFO  09:09:46 refill frequency is not updated in subscription id6
+INFO  11:17:22 Application started. Press Ctrl+C to shut down.
+INFO  11:17:22 Application started. Press Ctrl+C to shut down.
+INFO  11:17:22 Hosting environment: Development
+INFO  11:17:22 Hosting environment: Development
+INFO  11:17:22 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  11:17:22 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  11:27:47 refill frequency is not updated in subscription id7
+INFO  11:30:39 refill frequency is not updated in subscription id7
+INFO  11:36:35 refill frequency is not updated in subscription id7
+INFO  11:38:41 refill frequency is not updated in subscription id7
+INFO  12:26:35 Application started. Press Ctrl+C to shut down.
+INFO  12:26:35 Application started. Press Ctrl+C to shut down.
+INFO  12:26:35 Hosting environment: Development
+INFO  12:26:35 Hosting environment: Development
+INFO  12:26:35 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  12:26:35 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  01:58:29 refill frequency is not updated in subscription id6
+INFO  04:07:19 Application started. Press Ctrl+C to shut down.
+INFO  04:07:19 Application started. Press Ctrl+C to shut down.
+INFO  04:07:19 Hosting environment: Development
+INFO  04:07:19 Hosting environment: Development
+INFO  04:07:19 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:07:19 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  04:12:59 Subscription Details will be added
+INFO  04:13:55 refill frequency is not updated in subscription id6
+INFO  06:48:53 Application started. Press Ctrl+C to shut down.
+INFO  06:48:53 Application started. Press Ctrl+C to shut down.
+INFO  06:48:53 Hosting environment: Development
+INFO  06:48:53 Hosting environment: Development
+INFO  06:48:53 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  06:48:54 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  06:52:08 Subscription Details will be added
+INFO  06:53:07 getting refill frequency with subscription id 1
+INFO  08:03:28 Application started. Press Ctrl+C to shut down.
+INFO  08:03:28 Application started. Press Ctrl+C to shut down.
+INFO  08:03:28 Hosting environment: Development
+INFO  08:03:28 Hosting environment: Development
+INFO  08:03:28 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  08:03:28 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\SubscriptionMicroservice\SubscriptionMicroservice
+INFO  08:05:18 getting refill frequency with subscription id 1
+INFO  08:05:43 refill frequency is not updated in subscription id6

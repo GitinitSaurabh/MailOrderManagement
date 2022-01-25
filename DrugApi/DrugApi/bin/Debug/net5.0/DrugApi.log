@@ -1,0 +1,1103 @@
+INFO  01:13:16 Application started. Press Ctrl+C to shut down.
+INFO  01:13:16 Application started. Press Ctrl+C to shut down.
+INFO  01:13:16 Hosting environment: Development
+INFO  01:13:16 Hosting environment: Development
+INFO  01:13:16 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:13:16 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:39:37 Application started. Press Ctrl+C to shut down.
+INFO  01:39:37 Application started. Press Ctrl+C to shut down.
+INFO  01:39:37 Hosting environment: Development
+INFO  01:39:37 Hosting environment: Development
+INFO  01:39:37 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:39:37 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:39:47 drug id
+INFO  01:39:47 GetDrugById
+INFO  01:39:47 GetDrugById
+INFO  01:45:37 Application started. Press Ctrl+C to shut down.
+INFO  01:45:37 Application started. Press Ctrl+C to shut down.
+INFO  01:45:37 Hosting environment: Development
+INFO  01:45:37 Hosting environment: Development
+INFO  01:45:37 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:45:37 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:46:43 GetById/LocationName
+INFO  01:46:43 GetDispatchableDrugStock7andbangaloreis invoked
+INFO  01:46:55 GetDispatchableDrugStock7andbangaloreis invoked
+ERROR 01:47:05 not get invoked
+INFO  01:50:58 drug id
+INFO  01:50:58 GetDrugById7is invoked
+INFO  01:50:58 GetDrugById7is invoked
+INFO  02:17:48 Application started. Press Ctrl+C to shut down.
+INFO  02:17:48 Application started. Press Ctrl+C to shut down.
+INFO  02:17:48 Hosting environment: Development
+INFO  02:17:48 Hosting environment: Development
+INFO  02:17:48 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:17:48 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:17:58 drug id
+INFO  02:17:58 GetDrugById8is invoked
+INFO  02:17:58 GetDrugById8is invoked
+INFO  02:22:15 Application started. Press Ctrl+C to shut down.
+INFO  02:22:15 Application started. Press Ctrl+C to shut down.
+INFO  02:22:15 Hosting environment: Development
+INFO  02:22:15 Hosting environment: Development
+INFO  02:22:15 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:22:15 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:22:25 GetByname
+INFO  02:22:25 GetDrugByNameasprinis invoked
+INFO  02:22:25 GetDrugByNameasprinis invoked
+INFO  02:28:56 Application started. Press Ctrl+C to shut down.
+INFO  02:28:56 Application started. Press Ctrl+C to shut down.
+INFO  02:28:56 Hosting environment: Development
+INFO  02:28:56 Hosting environment: Development
+INFO  02:28:56 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:28:56 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:29:06 GetByname
+INFO  02:29:06 GetDrugByNameasprinis invoked
+INFO  02:29:06 GetDrugByNameasprinis invoked
+INFO  02:31:25 Application started. Press Ctrl+C to shut down.
+INFO  02:31:25 Application started. Press Ctrl+C to shut down.
+INFO  02:31:25 Hosting environment: Development
+INFO  02:31:25 Hosting environment: Development
+INFO  02:31:25 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:31:25 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:31:40 GetById/LocationName
+INFO  02:31:40 GetDispatchableDrugStock1andhyderabadis invoked
+INFO  02:31:40 GetDispatchableDrugStock1andhyderabadis invoked
+INFO  04:00:15 Application started. Press Ctrl+C to shut down.
+INFO  04:00:15 Application started. Press Ctrl+C to shut down.
+INFO  04:00:15 Hosting environment: Development
+INFO  04:00:15 Hosting environment: Development
+INFO  04:00:15 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  04:00:15 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  04:00:39 drug id
+INFO  04:00:39 GetDrugById9is invoked
+INFO  04:00:39 GetDrugById9is invoked
+ERROR 04:00:39 not get invoked
+INFO  04:00:50 drug id
+INFO  04:00:50 GetDrugById8is invoked
+INFO  04:00:50 GetDrugById8is invoked
+INFO  04:56:25 Application started. Press Ctrl+C to shut down.
+INFO  04:56:25 Application started. Press Ctrl+C to shut down.
+INFO  04:56:25 Hosting environment: Development
+INFO  04:56:25 Hosting environment: Development
+INFO  04:56:25 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  04:56:25 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  09:40:40 Application started. Press Ctrl+C to shut down.
+INFO  09:40:40 Application started. Press Ctrl+C to shut down.
+INFO  09:40:40 Hosting environment: Development
+INFO  09:40:40 Hosting environment: Development
+INFO  09:40:40 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  09:40:40 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  09:40:58 GetById/LocationName
+INFO  09:40:58 GetDispatchableDrugStock8andpunjabis invoked
+INFO  09:40:58 GetDispatchableDrugStock8andpunjabis invoked
+INFO  09:43:43 Application started. Press Ctrl+C to shut down.
+INFO  09:43:43 Application started. Press Ctrl+C to shut down.
+INFO  09:43:43 Hosting environment: Development
+INFO  09:43:43 Hosting environment: Development
+INFO  09:43:43 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  09:43:43 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  09:43:54 GetByname
+INFO  09:43:54 GetDrugByNamesureshis invoked
+INFO  09:43:54 GetDrugByNamesureshis invoked
+ERROR 09:43:54 not get invoked to GetDrugByName
+INFO  09:46:57 Application started. Press Ctrl+C to shut down.
+INFO  09:46:57 Application started. Press Ctrl+C to shut down.
+INFO  09:46:57 Hosting environment: Development
+INFO  09:46:57 Hosting environment: Development
+INFO  09:46:57 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  09:46:57 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  09:47:06 GetByname
+INFO  09:47:06 GetDrugByNamesaiis invoked
+INFO  09:47:06 GetDrugByNamesaiis invoked
+ERROR 09:47:33 not get invoked to GetDrugByName
+INFO  09:49:05 Application started. Press Ctrl+C to shut down.
+INFO  09:49:05 Application started. Press Ctrl+C to shut down.
+INFO  09:49:05 Hosting environment: Development
+INFO  09:49:05 Hosting environment: Development
+INFO  09:49:05 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  09:49:05 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  09:49:16 GetByname
+INFO  09:49:16 GetDrugByNameasprinis invoked
+INFO  09:49:16 GetDrugByNameasprinis invoked
+INFO  10:28:57 Application started. Press Ctrl+C to shut down.
+INFO  10:28:57 Application started. Press Ctrl+C to shut down.
+INFO  10:28:57 Hosting environment: Development
+INFO  10:28:57 Hosting environment: Development
+INFO  10:28:57 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  10:28:57 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  10:29:08 drug id
+INFO  10:29:08 GetDrugById7is invoked
+INFO  10:29:08 GetDrugById 7 is invoked
+INFO  10:33:34 Application started. Press Ctrl+C to shut down.
+INFO  10:33:34 Application started. Press Ctrl+C to shut down.
+INFO  10:33:34 Hosting environment: Development
+INFO  10:33:34 Hosting environment: Development
+INFO  10:33:34 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  10:33:34 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  10:33:48 GetById/LocationName
+INFO  10:33:48 GetDispatchableDrugStock1andHyderabadis invoked in provider
+INFO  10:33:48 GetDispatchableDrugStock1andHyderabad is invoked in Repository
+INFO  11:31:47 Application started. Press Ctrl+C to shut down.
+INFO  11:31:47 Application started. Press Ctrl+C to shut down.
+INFO  11:31:47 Hosting environment: Development
+INFO  11:31:47 Hosting environment: Development
+INFO  11:31:47 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  11:31:47 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  11:32:35 Application started. Press Ctrl+C to shut down.
+INFO  11:32:35 Application started. Press Ctrl+C to shut down.
+INFO  11:32:35 Hosting environment: Development
+INFO  11:32:35 Hosting environment: Development
+INFO  11:32:35 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  11:32:35 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  11:34:29 Application started. Press Ctrl+C to shut down.
+INFO  11:34:29 Application started. Press Ctrl+C to shut down.
+INFO  11:34:29 Hosting environment: Development
+INFO  11:34:29 Hosting environment: Development
+INFO  11:34:29 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  11:34:29 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:41:44 Application started. Press Ctrl+C to shut down.
+INFO  01:41:44 Application started. Press Ctrl+C to shut down.
+INFO  01:41:44 Hosting environment: Development
+INFO  01:41:44 Hosting environment: Development
+INFO  01:41:44 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:41:44 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:58:32 Application started. Press Ctrl+C to shut down.
+INFO  01:58:32 Application started. Press Ctrl+C to shut down.
+INFO  01:58:32 Hosting environment: Development
+INFO  01:58:32 Hosting environment: Development
+INFO  01:58:32 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:58:32 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:58:42 checkfor DRug availability for subscription using id 1
+INFO  02:15:11 Application started. Press Ctrl+C to shut down.
+INFO  02:15:11 Application started. Press Ctrl+C to shut down.
+INFO  02:15:11 Hosting environment: Development
+INFO  02:15:11 Hosting environment: Development
+INFO  02:15:11 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:15:11 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  03:52:42 Application started. Press Ctrl+C to shut down.
+INFO  03:52:42 Application started. Press Ctrl+C to shut down.
+INFO  03:52:42 Hosting environment: Development
+INFO  03:52:42 Hosting environment: Development
+INFO  03:52:42 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  03:52:42 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  06:57:12 Application started. Press Ctrl+C to shut down.
+INFO  06:57:12 Application started. Press Ctrl+C to shut down.
+INFO  06:57:12 Hosting environment: Development
+INFO  06:57:12 Hosting environment: Development
+INFO  06:57:12 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  06:57:12 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  06:57:36 checkfor DRug availability using id and loc1hyderabad
+INFO  01:50:11 Application started. Press Ctrl+C to shut down.
+INFO  01:50:11 Application started. Press Ctrl+C to shut down.
+INFO  01:50:11 Hosting environment: Development
+INFO  01:50:11 Hosting environment: Development
+INFO  01:50:11 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:50:11 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:50:36  Http Get Drug Details request
+INFO  01:50:36 GetdrugDetails by using the id +id+
+INFO  01:51:13 Application started. Press Ctrl+C to shut down.
+INFO  01:51:13 Application started. Press Ctrl+C to shut down.
+INFO  01:51:13 Hosting environment: Development
+INFO  01:51:13 Hosting environment: Development
+INFO  01:51:13 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:51:13 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:51:31  Http Get Drug Details request
+INFO  01:52:35 GetdrugDetails by using the id +id+
+INFO  01:53:56 Application started. Press Ctrl+C to shut down.
+INFO  01:53:56 Application started. Press Ctrl+C to shut down.
+INFO  01:53:56 Hosting environment: Development
+INFO  01:53:56 Hosting environment: Development
+INFO  01:53:56 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:53:56 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:54:13  Http Get Drug Details request
+INFO  01:55:15 GetdrugDetails by using the id +id+
+INFO  01:56:02 Application started. Press Ctrl+C to shut down.
+INFO  01:56:02 Application started. Press Ctrl+C to shut down.
+INFO  01:56:02 Hosting environment: Development
+INFO  01:56:02 Hosting environment: Development
+INFO  01:56:02 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:56:02 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:56:20  Http Get Drug Details request
+INFO  01:57:19 GetdrugDetails by using the id +id+
+INFO  02:00:17 Application started. Press Ctrl+C to shut down.
+INFO  02:00:17 Application started. Press Ctrl+C to shut down.
+INFO  02:00:17 Hosting environment: Development
+INFO  02:00:17 Hosting environment: Development
+INFO  02:00:17 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:00:17 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:00:36  Http Get Drug Details request
+INFO  02:01:18 GetdrugDetails by using the id +id+
+INFO  02:02:03 Application started. Press Ctrl+C to shut down.
+INFO  02:02:03 Application started. Press Ctrl+C to shut down.
+INFO  02:02:03 Hosting environment: Development
+INFO  02:02:03 Hosting environment: Development
+INFO  02:02:03 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:02:03 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  02:02:22  Http Get Drug Details request
+INFO  02:03:04 GetdrugDetails by using the id +id+
+INFO  03:43:42 Application started. Press Ctrl+C to shut down.
+INFO  03:43:42 Application started. Press Ctrl+C to shut down.
+INFO  03:43:42 Hosting environment: Development
+INFO  03:43:42 Hosting environment: Development
+INFO  03:43:42 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  03:43:42 Content root path: C:\Users\899107\source\repos\DrugApi\DrugApi
+INFO  01:47:20 Application started. Press Ctrl+C to shut down.
+INFO  01:47:20 Application started. Press Ctrl+C to shut down.
+INFO  01:47:20 Hosting environment: Development
+INFO  01:47:20 Hosting environment: Development
+INFO  01:47:20 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi
+INFO  01:47:20 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi
+ERROR 01:48:00 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:48:00 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:48:04 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:48:04 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  01:58:58 Application started. Press Ctrl+C to shut down.
+INFO  01:58:58 Application started. Press Ctrl+C to shut down.
+INFO  01:58:58 Hosting environment: Development
+INFO  01:58:58 Hosting environment: Development
+INFO  01:58:58 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi
+INFO  01:58:58 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi
+INFO  02:02:44 Application started. Press Ctrl+C to shut down.
+INFO  02:02:44 Application started. Press Ctrl+C to shut down.
+INFO  02:02:44 Hosting environment: Development
+INFO  02:02:44 Hosting environment: Development
+INFO  02:02:44 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi
+INFO  02:02:44 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi
+ERROR 02:03:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:03:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:09:58 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:09:58 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:14:00 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:14:00 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:16:18 Application started. Press Ctrl+C to shut down.
+INFO  02:16:18 Application started. Press Ctrl+C to shut down.
+INFO  02:16:18 Hosting environment: Development
+INFO  02:16:18 Hosting environment: Development
+INFO  02:16:18 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi
+INFO  02:16:18 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\DrugApi\DrugApi
+ERROR 02:17:34 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:17:34 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:19:30 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:19:30 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:24:26 Application started. Press Ctrl+C to shut down.
+INFO  09:24:27 Application started. Press Ctrl+C to shut down.
+INFO  09:24:27 Hosting environment: Development
+INFO  09:24:27 Hosting environment: Development
+INFO  09:24:27 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  09:24:27 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+ERROR 09:26:22 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:26:22 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:38:48 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:38:48 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:44:18 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:44:18 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:50:28 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:50:28 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:56:32 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:56:32 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:22:15 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:22:15 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:37:06 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:37:06 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  01:09:46 Application started. Press Ctrl+C to shut down.
+INFO  01:09:46 Application started. Press Ctrl+C to shut down.
+INFO  01:09:46 Hosting environment: Development
+INFO  01:09:46 Hosting environment: Development
+INFO  01:09:46 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  01:09:46 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  02:39:28 Application started. Press Ctrl+C to shut down.
+INFO  02:39:28 Application started. Press Ctrl+C to shut down.
+INFO  02:39:28 Hosting environment: Development
+INFO  02:39:28 Hosting environment: Development
+INFO  02:39:28 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  02:39:28 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+ERROR 02:41:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:41:11 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:44:51 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:44:51 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:46:28 Application started. Press Ctrl+C to shut down.
+INFO  02:46:28 Application started. Press Ctrl+C to shut down.
+INFO  02:46:28 Hosting environment: Development
+INFO  02:46:28 Hosting environment: Development
+INFO  02:46:28 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  02:46:28 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+ERROR 02:46:44 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:46:44 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'DrugApi.Provider.providerclass' while attempting to activate 'DrugApi.Controllers.DrugController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:51:16 Application started. Press Ctrl+C to shut down.
+INFO  02:51:16 Application started. Press Ctrl+C to shut down.
+INFO  02:51:16 Hosting environment: Development
+INFO  02:51:16 Hosting environment: Development
+INFO  02:51:16 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  02:51:16 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  02:51:42  Http Get Request for Drug Details by Location and ID
+INFO  02:52:01  Http Get Request for Drug Details by Location and ID
+INFO  02:57:35 Application started. Press Ctrl+C to shut down.
+INFO  02:57:35 Application started. Press Ctrl+C to shut down.
+INFO  02:57:35 Hosting environment: Development
+INFO  02:57:35 Hosting environment: Development
+INFO  02:57:35 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  02:57:35 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  02:57:56  Http Get Request for Drug Details by Location and ID
+INFO  03:02:49 Application started. Press Ctrl+C to shut down.
+INFO  03:02:49 Application started. Press Ctrl+C to shut down.
+INFO  03:02:49 Hosting environment: Development
+INFO  03:02:49 Hosting environment: Development
+INFO  03:02:49 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  03:02:49 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  03:03:57 Application started. Press Ctrl+C to shut down.
+INFO  03:03:57 Application started. Press Ctrl+C to shut down.
+INFO  03:03:57 Hosting environment: Development
+INFO  03:03:57 Hosting environment: Development
+INFO  03:03:57 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  03:03:57 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  03:04:27  Http Get Request for Drug Details by Location and ID
+INFO  03:06:51  Http Get Request for Drug Details by Location and ID
+INFO  03:06:58  Http Get Request for Drug Details by Location and ID
+INFO  03:08:43  Http Get Request for Drug Details by Location and ID
+INFO  03:13:23  Http Get Request for Drug Details by Location and ID
+INFO  03:17:12 Application started. Press Ctrl+C to shut down.
+INFO  03:17:12 Application started. Press Ctrl+C to shut down.
+INFO  03:17:12 Hosting environment: Development
+INFO  03:17:12 Hosting environment: Development
+INFO  03:17:12 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  03:17:12 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  03:17:50  Http Get Request for Drug Details by Location and ID
+INFO  03:18:34  Http Get Request for Drug Details by Location and ID
+INFO  03:34:17  Http Get Request for Drug Details by Location and ID
+INFO  03:34:24  Http Get Request for Drug Details by Location and ID
+INFO  03:49:31 checkfor DRug availability using id and loc11
+INFO  04:09:10 Application started. Press Ctrl+C to shut down.
+INFO  04:09:10 Application started. Press Ctrl+C to shut down.
+INFO  04:09:10 Hosting environment: Development
+INFO  04:09:10 Hosting environment: Development
+INFO  04:09:10 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  04:09:10 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  04:43:08 checkfor Drug availability for subscription using id 1
+INFO  04:45:28 checkfor Drug availability for subscription using id 1
+INFO  04:46:34 checkfor Drug availability for subscription using id 0
+INFO  04:53:28 checkfor Drug availability for subscription using id 1
+INFO  04:53:32 checkfor Drug availability for subscription using id 0
+INFO  05:02:16 checkfor Drug availability for subscription using id 1
+INFO  05:02:41 checkfor Drug availability for subscription using id 0
+INFO  05:05:24 checkfor Drug availability for subscription using id 1
+INFO  05:08:34 checkfor Drug availability for subscription using id 1
+INFO  05:15:42 checkfor Drug availability for subscription using id 1
+INFO  05:21:59 checkfor Drug availability for subscription using id 1
+INFO  05:22:28 checkfor Drug availability for subscription using id 0
+INFO  05:34:42  Http Get Request for Drug Details by Location and ID
+INFO  05:34:42  Http Get Request for Drug Details by Location and ID
+INFO  05:38:48  Http Get Request for Drug Details by Location and ID
+INFO  05:38:48  Http Get Request for Drug Details by Location and ID
+INFO  05:39:47  Http Get Request for Drug Details by Location and ID
+INFO  05:39:47  Http Get Request for Drug Details by Location and ID
+INFO  05:47:49 checkfor DRug availability using id and loc11
+INFO  05:52:25 Application started. Press Ctrl+C to shut down.
+INFO  05:52:25 Application started. Press Ctrl+C to shut down.
+INFO  05:52:25 Hosting environment: Development
+INFO  05:52:25 Hosting environment: Development
+INFO  05:52:25 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  05:52:25 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\DrugApi\DrugApi
+INFO  08:51:36 Application started. Press Ctrl+C to shut down.
+INFO  08:51:36 Application started. Press Ctrl+C to shut down.
+INFO  08:51:36 Hosting environment: Development
+INFO  08:51:36 Hosting environment: Development
+INFO  08:51:36 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  08:51:36 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  08:53:50  Http Get Request for Drug Details by Location and ID
+INFO  08:53:50  Http Get Request for Drug Details by Location and ID
+INFO  09:48:59  Http Get Request for Drug Details by Location and ID
+INFO  09:51:06  Http Get Request for Drug Details by Location and ID
+INFO  11:27:20  Http Get Request for Drug Details by Location and ID
+INFO  11:29:49  Http Get Request for Drug Details by Location and ID
+INFO  11:32:06  Http Get Request for Drug Details by Location and ID
+INFO  11:47:05 checkfor Drug availability for subscription using id 1
+INFO  11:55:35 checkfor Drug availability for subscription using id 1
+INFO  11:55:42 checkfor Drug availability for subscription using id 1
+INFO  11:58:03 checkfor Drug availability for subscription using id 1
+INFO  12:03:31  Http Get Request for Drug Details by Location and ID
+INFO  12:04:38 checkfor Drug availability for subscription using id 1
+INFO  09:02:41 Application started. Press Ctrl+C to shut down.
+INFO  09:02:41 Application started. Press Ctrl+C to shut down.
+INFO  09:02:41 Hosting environment: Development
+INFO  09:02:41 Hosting environment: Development
+INFO  09:02:41 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  09:02:41 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  09:07:46  Http Get Request for Drug Details by Location and ID
+INFO  09:08:57 checkfor Drug availability for subscription using id 1
+ERROR 09:10:22 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at DrugApi.Filters.MailOrderAuthorization.OnAuthorization(AuthorizationFilterContext context) in C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\Filters\MailOrderAuthorization.cs:line 19
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:10:22 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Sequence contains no elements
+   at System.Linq.ThrowHelper.ThrowNoElementsException()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at DrugApi.Filters.MailOrderAuthorization.OnAuthorization(AuthorizationFilterContext context) in C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi\Filters\MailOrderAuthorization.cs:line 19
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:17:14 Application started. Press Ctrl+C to shut down.
+INFO  09:17:14 Application started. Press Ctrl+C to shut down.
+INFO  09:17:14 Hosting environment: Development
+INFO  09:17:14 Hosting environment: Development
+INFO  09:17:14 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  09:17:14 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  09:20:20 Application started. Press Ctrl+C to shut down.
+INFO  09:20:20 Application started. Press Ctrl+C to shut down.
+INFO  09:20:20 Hosting environment: Development
+INFO  09:20:20 Hosting environment: Development
+INFO  09:20:20 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  09:20:20 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  09:32:59 Application started. Press Ctrl+C to shut down.
+INFO  09:32:59 Application started. Press Ctrl+C to shut down.
+INFO  09:32:59 Hosting environment: Development
+INFO  09:32:59 Hosting environment: Development
+INFO  09:32:59 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  09:32:59 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  09:34:05 checkfor DRug availability using id and loc22
+INFO  11:17:10 Application started. Press Ctrl+C to shut down.
+INFO  11:17:10 Application started. Press Ctrl+C to shut down.
+INFO  11:17:10 Hosting environment: Development
+INFO  11:17:10 Hosting environment: Development
+INFO  11:17:10 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  11:17:10 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  11:17:55 checkfor DRug availability using id and loc22
+INFO  11:40:53  Http Get Request for Drug Details by Location and ID
+INFO  11:47:11  Http Get Request for Drug Details by Location and ID
+INFO  11:50:13  Http Get Drug Details request
+INFO  11:50:13 GetdrugDetails by using the id +id+
+INFO  12:24:29 Application started. Press Ctrl+C to shut down.
+INFO  12:24:29 Application started. Press Ctrl+C to shut down.
+INFO  12:24:29 Hosting environment: Development
+INFO  12:24:29 Hosting environment: Development
+INFO  12:24:29 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  12:24:29 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  12:29:38  Http Get Drug Details request
+INFO  12:29:38 GetdrugDetails by using the id +id+
+INFO  12:38:48  Http Get Drug Details request
+INFO  12:38:48 GetdrugDetails by using the id +id+
+INFO  12:40:12  Http Get Drug Details request
+INFO  12:40:12 GetdrugDetails by using the id +id+
+INFO  12:42:24  Http Get Drug Details request
+INFO  12:42:58 GetdrugDetails by using the id +id+
+INFO  12:48:25  Http Get Drug Details request
+INFO  12:48:25 GetdrugDetails by using the id +id+
+INFO  12:50:57  Http Get Drug Details request
+INFO  12:50:57 GetdrugDetails by using the id +id+
+INFO  12:53:41  Http Get Drug Details request
+INFO  12:53:41 GetdrugDetails by using the id +id+
+INFO  01:02:45  Http Get Drug Details request
+INFO  01:02:45 GetdrugDetails by using the id +id+
+INFO  01:08:59  Http Get Drug Details request
+INFO  01:08:59 GetdrugDetails by using the id +id+
+INFO  01:10:43  Http Get Drug Details request
+INFO  01:10:43 GetdrugDetails by using the id +id+
+INFO  01:18:51 Application started. Press Ctrl+C to shut down.
+INFO  01:18:51 Application started. Press Ctrl+C to shut down.
+INFO  01:18:51 Hosting environment: Development
+INFO  01:18:51 Hosting environment: Development
+INFO  01:18:51 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  01:18:51 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\DrugApi\DrugApi
+INFO  01:19:28  Http Get Drug Details request
+INFO  01:19:28 GetdrugDetails by using the id +id+
+INFO  01:31:16  Http Get Drug Details request
+INFO  01:31:16 GetdrugDetails by using the id +id+
+INFO  01:31:38  Http Get Drug Details request
+INFO  01:31:38 GetdrugDetails by using the id +id+
+INFO  01:50:12  Http Get Drug Details request
+INFO  01:50:12 GetdrugDetails by using the id +id+
+INFO  01:54:33  Http Get Request for Drug Details by Location and ID
+INFO  01:58:50 checkfor DRug availability using id and loc22
+INFO  04:09:37 Application started. Press Ctrl+C to shut down.
+INFO  04:09:37 Application started. Press Ctrl+C to shut down.
+INFO  04:09:37 Hosting environment: Development
+INFO  04:09:37 Hosting environment: Development
+INFO  04:09:37 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi
+INFO  04:09:37 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi
+INFO  04:11:31  Http Get Request for Drug Details by Location and ID
+INFO  04:12:59 checkfor Drug availability for subscription using id 1
+INFO  04:15:22  Http Get Drug Details request
+INFO  04:15:22 GetdrugDetails by using the id +id+
+INFO  04:15:40  Http Get Drug Details request
+INFO  04:15:40 GetdrugDetails by using the id +id+
+INFO  06:49:26 Application started. Press Ctrl+C to shut down.
+INFO  06:49:27 Application started. Press Ctrl+C to shut down.
+INFO  06:49:27 Hosting environment: Development
+INFO  06:49:27 Hosting environment: Development
+INFO  06:49:27 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi
+INFO  06:49:27 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi
+INFO  06:50:07  Http Get Request for Drug Details by Location and ID
+INFO  06:50:37  Http Get Request for Drug Details by Location and ID
+INFO  06:52:08 checkfor Drug availability for subscription using id 1
+INFO  06:58:50  Http Get Drug Details request
+INFO  06:58:50 GetdrugDetails by using the id +id+
+INFO  06:59:04  Http Get Drug Details request
+INFO  06:59:04 GetdrugDetails by using the id +id+
+INFO  08:03:41 Application started. Press Ctrl+C to shut down.
+INFO  08:03:42 Application started. Press Ctrl+C to shut down.
+INFO  08:03:42 Hosting environment: Development
+INFO  08:03:42 Hosting environment: Development
+INFO  08:03:42 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi
+INFO  08:03:42 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\DrugApi\DrugApi
+INFO  08:04:17  Http Get Request for Drug Details by Location and ID
+INFO  08:06:48  Http Get Drug Details request
+INFO  08:06:48 GetdrugDetails by using the id +id+
+INFO  08:07:00  Http Get Drug Details request
+INFO  08:07:00 GetdrugDetails by using the id +id+
+INFO  11:44:42 Application started. Press Ctrl+C to shut down.
+INFO  11:44:42 Application started. Press Ctrl+C to shut down.
+INFO  11:44:42 Hosting environment: Development
+INFO  11:44:42 Hosting environment: Development
+INFO  11:44:42 Content root path: F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi
+INFO  11:44:42 Content root path: F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi
+INFO  11:48:07  Http Get Request for Drug Details by Location and ID
+INFO  11:52:13  Http Get Drug Details request
+INFO  11:52:23  Http Get Drug Details request
+INFO  11:52:51 GetdrugDetails by using the id +id+
+INFO  11:52:57 GetdrugDetails by using the id +id+
+INFO  10:40:03 Application started. Press Ctrl+C to shut down.
+INFO  10:40:03 Application started. Press Ctrl+C to shut down.
+INFO  10:40:03 Hosting environment: Development
+INFO  10:40:03 Hosting environment: Development
+INFO  10:40:03 Content root path: F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi
+INFO  10:40:03 Content root path: F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi
+INFO  10:46:50 Application started. Press Ctrl+C to shut down.
+INFO  10:46:50 Application started. Press Ctrl+C to shut down.
+INFO  10:46:50 Hosting environment: Development
+INFO  10:46:50 Hosting environment: Development
+INFO  10:46:50 Content root path: F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi
+INFO  10:46:50 Content root path: F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi
+INFO  10:57:19  Http Get Request for Drug Details by Location and ID
+INFO  11:00:50  Http Get Request for Drug Details by Location and ID
+INFO  01:00:00 Application started. Press Ctrl+C to shut down.
+INFO  01:00:01 Application started. Press Ctrl+C to shut down.
+INFO  01:00:01 Hosting environment: Development
+INFO  01:00:01 Hosting environment: Development
+INFO  01:00:01 Content root path: F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi
+INFO  01:00:01 Content root path: F:\CTS\MailOrderPharmaProject-main\DrugApi\DrugApi

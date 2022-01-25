@@ -1,0 +1,487 @@
+INFO  01:27:55 Application started. Press Ctrl+C to shut down.
+INFO  01:27:55 Application started. Press Ctrl+C to shut down.
+INFO  01:27:55 Hosting environment: Development
+INFO  01:27:55 Hosting environment: Development
+INFO  01:27:55 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  01:27:55 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  01:29:52 Application started. Press Ctrl+C to shut down.
+INFO  01:29:52 Application started. Press Ctrl+C to shut down.
+INFO  01:29:52 Hosting environment: Development
+INFO  01:29:52 Hosting environment: Development
+INFO  01:29:52 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  01:29:52 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  01:30:37 get refill status
+INFO  01:51:52 Application started. Press Ctrl+C to shut down.
+INFO  01:51:52 Application started. Press Ctrl+C to shut down.
+INFO  01:51:52 Hosting environment: Development
+INFO  01:51:52 Hosting environment: Development
+INFO  01:51:52 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  01:51:52 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  01:53:36 Get refill due as of date
+INFO  01:56:48 Get refill due as of date
+INFO  01:57:58 Get refill due as of date
+INFO  02:01:59 Application started. Press Ctrl+C to shut down.
+INFO  02:01:59 Application started. Press Ctrl+C to shut down.
+INFO  02:01:59 Hosting environment: Development
+INFO  02:01:59 Hosting environment: Development
+INFO  02:01:59 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  02:01:59 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  02:03:43 Get refill due as of date
+INFO  02:17:42 Application started. Press Ctrl+C to shut down.
+INFO  02:17:42 Application started. Press Ctrl+C to shut down.
+INFO  02:17:42 Hosting environment: Development
+INFO  02:17:42 Hosting environment: Development
+INFO  02:17:42 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  02:17:42 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+ERROR 02:17:56 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'RefillMicroservice.Controllers.RefillController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:17:56 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'RefillMicroservice.Controllers.RefillController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:25:14 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'RefillMicroservice.Controllers.RefillController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 02:25:14 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'RefillMicroservice.Controllers.RefillController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerProvider.OnProvidersExecuting(ActionInvokerProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionInvokerFactory.CreateInvoker(ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ActionEndpointFactory.<>c__DisplayClass7_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  02:26:59 Application started. Press Ctrl+C to shut down.
+INFO  02:26:59 Application started. Press Ctrl+C to shut down.
+INFO  02:26:59 Hosting environment: Development
+INFO  02:26:59 Hosting environment: Development
+INFO  02:26:59 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  02:26:59 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  02:27:20 Get refill due as of date
+INFO  09:38:08 Application started. Press Ctrl+C to shut down.
+INFO  09:38:08 Application started. Press Ctrl+C to shut down.
+INFO  09:38:08 Hosting environment: Development
+INFO  09:38:08 Hosting environment: Development
+INFO  09:38:08 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  09:38:08 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  10:08:16 get refill status
+INFO  10:08:19 get refill status
+INFO  10:54:35 Get refill due as of date
+INFO  10:54:41 Get refill due as of date
+INFO  10:56:45 Get Adhoc refill
+INFO  10:56:50 Get Adhoc refill
+INFO  11:37:16 Application started. Press Ctrl+C to shut down.
+INFO  11:37:16 Application started. Press Ctrl+C to shut down.
+INFO  11:37:16 Hosting environment: Development
+INFO  11:37:16 Hosting environment: Development
+INFO  11:37:16 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  11:37:16 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  11:37:46 Get Adhoc refill
+INFO  11:37:51 Get Adhoc refill
+INFO  11:42:41 Application started. Press Ctrl+C to shut down.
+INFO  11:42:41 Application started. Press Ctrl+C to shut down.
+INFO  11:42:41 Hosting environment: Development
+INFO  11:42:41 Hosting environment: Development
+INFO  11:42:41 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  11:42:41 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  01:09:39 Application started. Press Ctrl+C to shut down.
+INFO  01:09:39 Application started. Press Ctrl+C to shut down.
+INFO  01:09:39 Hosting environment: Development
+INFO  01:09:39 Hosting environment: Development
+INFO  01:09:39 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  01:09:39 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  01:10:42 Get Adhoc refill
+INFO  01:17:23 Get Adhoc refill
+INFO  01:19:35 Get Adhoc refill
+INFO  02:17:43 Get Adhoc refill
+INFO  02:19:55 Application started. Press Ctrl+C to shut down.
+INFO  02:19:55 Application started. Press Ctrl+C to shut down.
+INFO  02:19:55 Hosting environment: Development
+INFO  02:19:55 Hosting environment: Development
+INFO  02:19:55 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  02:19:55 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  02:20:42 Get Adhoc refill
+INFO  02:24:34 Get Adhoc refill
+INFO  03:17:53 Application started. Press Ctrl+C to shut down.
+INFO  03:17:53 Application started. Press Ctrl+C to shut down.
+INFO  03:17:53 Hosting environment: Development
+INFO  03:17:53 Hosting environment: Development
+INFO  03:17:53 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  03:17:53 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacy\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  06:55:31 Application started. Press Ctrl+C to shut down.
+INFO  06:55:31 Application started. Press Ctrl+C to shut down.
+INFO  06:55:31 Hosting environment: Development
+INFO  06:55:31 Hosting environment: Development
+INFO  06:55:31 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  06:55:31 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  07:29:53 Get Adhoc refill
+INFO  08:04:00 Application started. Press Ctrl+C to shut down.
+INFO  08:04:00 Application started. Press Ctrl+C to shut down.
+INFO  08:04:00 Hosting environment: Development
+INFO  08:04:00 Hosting environment: Development
+INFO  08:04:00 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  08:04:00 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  08:08:07 Get Adhoc refill
+INFO  08:12:20 Application started. Press Ctrl+C to shut down.
+INFO  08:12:20 Application started. Press Ctrl+C to shut down.
+INFO  08:12:20 Hosting environment: Development
+INFO  08:12:20 Hosting environment: Development
+INFO  08:12:20 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  08:12:20 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice\RefillMicroservice
+INFO  08:13:51 Get Adhoc refill
+INFO  09:44:52 Application started. Press Ctrl+C to shut down.
+INFO  09:44:52 Application started. Press Ctrl+C to shut down.
+INFO  09:44:52 Hosting environment: Development
+INFO  09:44:52 Hosting environment: Development
+INFO  09:44:52 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  09:44:52 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  09:45:13 get refill status
+INFO  09:45:14 get refill status
+INFO  09:46:23 Get refill due as of date
+INFO  09:46:29 Get refill due as of date
+INFO  09:46:57 Get refill due as of date
+INFO  09:47:02 Get refill due as of date
+INFO  09:47:24 Get refill due as of date
+INFO  09:48:19 Get Adhoc refill
+INFO  09:49:57 Get refill due as of date
+INFO  09:50:52 Get refill due as of date
+INFO  10:53:35 Application started. Press Ctrl+C to shut down.
+INFO  10:53:35 Application started. Press Ctrl+C to shut down.
+INFO  10:53:35 Hosting environment: Development
+INFO  10:53:35 Hosting environment: Development
+INFO  10:53:35 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  10:53:35 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  11:18:12 Application started. Press Ctrl+C to shut down.
+INFO  11:18:12 Application started. Press Ctrl+C to shut down.
+INFO  11:18:12 Hosting environment: Development
+INFO  11:18:12 Hosting environment: Development
+INFO  11:18:12 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  11:18:12 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  11:20:20 Application started. Press Ctrl+C to shut down.
+INFO  11:20:20 Application started. Press Ctrl+C to shut down.
+INFO  11:20:20 Hosting environment: Development
+INFO  11:20:20 Hosting environment: Development
+INFO  11:20:20 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  11:20:20 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  11:21:51 Get Adhoc refill
+INFO  11:22:57 Get Adhoc refill
+INFO  11:29:09 Application started. Press Ctrl+C to shut down.
+INFO  11:29:09 Application started. Press Ctrl+C to shut down.
+INFO  11:29:09 Hosting environment: Development
+INFO  11:29:09 Hosting environment: Development
+INFO  11:29:09 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  11:29:09 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  11:30:04 Get Adhoc refill
+INFO  11:53:47 Application started. Press Ctrl+C to shut down.
+INFO  11:53:47 Application started. Press Ctrl+C to shut down.
+INFO  11:53:47 Hosting environment: Development
+INFO  11:53:47 Hosting environment: Development
+INFO  11:53:47 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  11:53:47 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  12:02:45 Application started. Press Ctrl+C to shut down.
+INFO  12:02:45 Application started. Press Ctrl+C to shut down.
+INFO  12:02:45 Hosting environment: Development
+INFO  12:02:45 Hosting environment: Development
+INFO  12:02:45 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  12:02:45 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  12:07:42 Application started. Press Ctrl+C to shut down.
+INFO  12:07:42 Application started. Press Ctrl+C to shut down.
+INFO  12:07:42 Hosting environment: Development
+INFO  12:07:42 Hosting environment: Development
+INFO  12:07:42 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  12:07:42 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  12:17:37 Application started. Press Ctrl+C to shut down.
+INFO  12:17:37 Application started. Press Ctrl+C to shut down.
+INFO  12:17:37 Hosting environment: Development
+INFO  12:17:37 Hosting environment: Development
+INFO  12:17:37 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  12:17:37 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  12:27:24 Application started. Press Ctrl+C to shut down.
+INFO  12:27:24 Application started. Press Ctrl+C to shut down.
+INFO  12:27:24 Hosting environment: Development
+INFO  12:27:24 Hosting environment: Development
+INFO  12:27:24 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  12:27:24 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  12:31:58 Get Adhoc refill
+INFO  01:27:03 Application started. Press Ctrl+C to shut down.
+INFO  01:27:03 Application started. Press Ctrl+C to shut down.
+INFO  01:27:03 Hosting environment: Development
+INFO  01:27:03 Hosting environment: Development
+INFO  01:27:03 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  01:27:03 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  01:47:23 Application started. Press Ctrl+C to shut down.
+INFO  01:47:23 Application started. Press Ctrl+C to shut down.
+INFO  01:47:23 Hosting environment: Development
+INFO  01:47:23 Hosting environment: Development
+INFO  01:47:23 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  01:47:23 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  01:48:31 get refill status
+INFO  01:48:39 get refill status
+INFO  01:59:40 Application started. Press Ctrl+C to shut down.
+INFO  01:59:40 Application started. Press Ctrl+C to shut down.
+INFO  01:59:40 Hosting environment: Development
+INFO  01:59:40 Hosting environment: Development
+INFO  01:59:40 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  01:59:40 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  02:00:32 Get Adhoc refill
+INFO  02:03:11 Get Adhoc refill
+INFO  02:09:38 Get Adhoc refill
+INFO  02:13:20 Get Adhoc refill
+INFO  02:15:59 Application started. Press Ctrl+C to shut down.
+INFO  02:15:59 Application started. Press Ctrl+C to shut down.
+INFO  02:15:59 Hosting environment: Development
+INFO  02:15:59 Hosting environment: Development
+INFO  02:15:59 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  02:15:59 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  02:17:23 Get Adhoc refill
+INFO  02:18:10 Application started. Press Ctrl+C to shut down.
+INFO  02:18:10 Application started. Press Ctrl+C to shut down.
+INFO  02:18:10 Hosting environment: Development
+INFO  02:18:10 Hosting environment: Development
+INFO  02:18:10 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  02:18:10 Content root path: C:\Users\899069\Downloads\MailOrderPharmacy-main\MailOrderPharmacy-main\RefillMicroservice\RefillMicroservice
+INFO  02:19:19 Get Adhoc refill
+INFO  09:23:42 Application started. Press Ctrl+C to shut down.
+INFO  09:23:42 Application started. Press Ctrl+C to shut down.
+INFO  09:23:42 Hosting environment: Development
+INFO  09:23:42 Hosting environment: Development
+INFO  09:23:42 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  09:23:42 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  09:26:05 Get Adhoc refill
+INFO  09:37:33 Application started. Press Ctrl+C to shut down.
+INFO  09:37:33 Application started. Press Ctrl+C to shut down.
+INFO  09:37:33 Hosting environment: Development
+INFO  09:37:33 Hosting environment: Development
+INFO  09:37:33 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  09:37:33 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  09:38:34 Get Adhoc refill
+INFO  09:43:37 Application started. Press Ctrl+C to shut down.
+INFO  09:43:37 Application started. Press Ctrl+C to shut down.
+INFO  09:43:37 Hosting environment: Development
+INFO  09:43:37 Hosting environment: Development
+INFO  09:43:37 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  09:43:37 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  09:44:18 Get Adhoc refill
+INFO  09:50:28 Get Adhoc refill
+INFO  09:56:32 Get Adhoc refill
+INFO  11:21:44 Application started. Press Ctrl+C to shut down.
+INFO  11:21:44 Application started. Press Ctrl+C to shut down.
+INFO  11:21:44 Hosting environment: Development
+INFO  11:21:44 Hosting environment: Development
+INFO  11:21:44 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  11:21:44 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  11:22:15 Get Adhoc refill
+INFO  11:37:06 Get Adhoc refill
+INFO  11:44:06 Application started. Press Ctrl+C to shut down.
+INFO  11:44:06 Application started. Press Ctrl+C to shut down.
+INFO  11:44:06 Hosting environment: Development
+INFO  11:44:06 Hosting environment: Development
+INFO  11:44:06 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  11:44:06 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  11:49:21 Application started. Press Ctrl+C to shut down.
+INFO  11:49:21 Application started. Press Ctrl+C to shut down.
+INFO  11:49:21 Hosting environment: Development
+INFO  11:49:21 Hosting environment: Development
+INFO  11:49:21 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  11:49:21 Content root path: C:\Users\899069\OneDrive - Cognizant\Documents\CognizantFiles\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:11:09 Application started. Press Ctrl+C to shut down.
+INFO  01:11:09 Application started. Press Ctrl+C to shut down.
+INFO  01:11:09 Hosting environment: Development
+INFO  01:11:09 Hosting environment: Development
+INFO  01:11:09 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:11:09 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:42:17 Application started. Press Ctrl+C to shut down.
+INFO  01:42:17 Application started. Press Ctrl+C to shut down.
+INFO  01:42:17 Hosting environment: Development
+INFO  01:42:17 Hosting environment: Development
+INFO  01:42:17 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:42:17 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:44:41 Application started. Press Ctrl+C to shut down.
+INFO  01:44:41 Application started. Press Ctrl+C to shut down.
+INFO  01:44:41 Hosting environment: Development
+INFO  01:44:41 Hosting environment: Development
+INFO  01:44:41 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:44:41 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:48:44 Application started. Press Ctrl+C to shut down.
+INFO  01:48:44 Application started. Press Ctrl+C to shut down.
+INFO  01:48:44 Hosting environment: Development
+INFO  01:48:44 Hosting environment: Development
+INFO  01:48:44 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:48:44 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:51:29 Application started. Press Ctrl+C to shut down.
+INFO  01:51:29 Application started. Press Ctrl+C to shut down.
+INFO  01:51:29 Hosting environment: Development
+INFO  01:51:29 Hosting environment: Development
+INFO  01:51:29 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:51:29 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:55:03 Get refill due as of date
+INFO  02:00:51 Get refill due as of date
+INFO  02:04:56 Get refill due as of date
+INFO  02:05:21 Get refill due as of date
+INFO  02:39:56 Application started. Press Ctrl+C to shut down.
+INFO  02:39:56 Application started. Press Ctrl+C to shut down.
+INFO  02:39:56 Hosting environment: Development
+INFO  02:39:56 Hosting environment: Development
+INFO  02:39:56 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  02:39:56 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MFPE\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  03:23:58 get refill status
+INFO  03:24:01 get refill status
+INFO  03:24:56 get refill status
+INFO  03:24:58 get refill status
+INFO  03:25:31 Get refill due as of date
+INFO  03:27:36 Get refill due as of date
+INFO  03:49:31 Get Adhoc refill
+INFO  05:23:21 Application started. Press Ctrl+C to shut down.
+INFO  05:23:21 Application started. Press Ctrl+C to shut down.
+INFO  05:23:21 Hosting environment: Development
+INFO  05:23:21 Hosting environment: Development
+INFO  05:23:21 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  05:23:21 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  05:28:21 Application started. Press Ctrl+C to shut down.
+INFO  05:28:21 Application started. Press Ctrl+C to shut down.
+INFO  05:28:21 Hosting environment: Development
+INFO  05:28:21 Hosting environment: Development
+INFO  05:28:21 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  05:28:21 Content root path: C:\Users\899069\Downloads\MailOrderPharmacySystem_1\MailOrderPharmacySystem\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  05:47:49 Get Adhoc refill
+INFO  08:51:46 Application started. Press Ctrl+C to shut down.
+INFO  08:51:46 Application started. Press Ctrl+C to shut down.
+INFO  08:51:46 Hosting environment: Development
+INFO  08:51:46 Hosting environment: Development
+INFO  08:51:46 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  08:51:46 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  11:32:42 get refill status
+INFO  12:05:55 Get Adhoc refill
+INFO  09:03:30 Application started. Press Ctrl+C to shut down.
+INFO  09:03:30 Application started. Press Ctrl+C to shut down.
+INFO  09:03:30 Hosting environment: Development
+INFO  09:03:30 Hosting environment: Development
+INFO  09:03:30 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  09:03:30 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  09:08:03 get refill status
+INFO  09:09:46 Get refill due as of date
+INFO  09:10:18 Get Adhoc refill
+INFO  09:12:01 Get Adhoc refill
+INFO  09:18:44 Get Adhoc refill
+INFO  09:34:04 Get Adhoc refill
+INFO  11:17:15 Application started. Press Ctrl+C to shut down.
+INFO  11:17:15 Application started. Press Ctrl+C to shut down.
+INFO  11:17:15 Hosting environment: Development
+INFO  11:17:15 Hosting environment: Development
+INFO  11:17:15 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  11:17:15 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  11:17:55 Get Adhoc refill
+INFO  11:27:11 Application started. Press Ctrl+C to shut down.
+INFO  11:27:11 Application started. Press Ctrl+C to shut down.
+INFO  11:27:11 Hosting environment: Development
+INFO  11:27:11 Hosting environment: Development
+INFO  11:27:11 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  11:27:11 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  11:27:46 Get refill due as of date
+INFO  11:30:38 Get refill due as of date
+INFO  11:36:35 Get refill due as of date
+INFO  11:38:41 Get refill due as of date
+INFO  11:44:02 Application started. Press Ctrl+C to shut down.
+INFO  11:44:02 Application started. Press Ctrl+C to shut down.
+INFO  11:44:02 Hosting environment: Development
+INFO  11:44:02 Hosting environment: Development
+INFO  11:44:02 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  11:44:02 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  12:24:38 Application started. Press Ctrl+C to shut down.
+INFO  12:24:38 Application started. Press Ctrl+C to shut down.
+INFO  12:24:38 Hosting environment: Development
+INFO  12:24:38 Hosting environment: Development
+INFO  12:24:38 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  12:24:38 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE New\MailOrderPharmacy\RefillMicroservice\RefillMicroservice
+INFO  01:54:44 get refill status
+INFO  01:57:38 get refill status
+INFO  01:58:29 Get refill due as of date
+INFO  01:58:50 Get Adhoc refill
+INFO  04:07:14 Application started. Press Ctrl+C to shut down.
+INFO  04:07:14 Application started. Press Ctrl+C to shut down.
+INFO  04:07:14 Hosting environment: Development
+INFO  04:07:14 Hosting environment: Development
+INFO  04:07:14 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\RefillMicroservice\RefillMicroservice
+INFO  04:07:14 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\RefillMicroservice\RefillMicroservice
+INFO  04:12:13 get refill status
+INFO  04:13:54 Get refill due as of date
+INFO  04:14:25 Get Adhoc refill
+INFO  04:14:52 Get Adhoc refill
+INFO  06:49:23 Application started. Press Ctrl+C to shut down.
+INFO  06:49:23 Application started. Press Ctrl+C to shut down.
+INFO  06:49:23 Hosting environment: Development
+INFO  06:49:23 Hosting environment: Development
+INFO  06:49:23 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\RefillMicroservice\RefillMicroservice
+INFO  06:49:23 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\RefillMicroservice\RefillMicroservice
+INFO  06:50:49 get refill status
+INFO  06:51:05 get refill status
+INFO  06:53:07 Get refill due as of date
+INFO  06:57:59 Get Adhoc refill
+INFO  08:03:25 Application started. Press Ctrl+C to shut down.
+INFO  08:03:26 Application started. Press Ctrl+C to shut down.
+INFO  08:03:26 Hosting environment: Development
+INFO  08:03:26 Hosting environment: Development
+INFO  08:03:26 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\RefillMicroservice\RefillMicroservice
+INFO  08:03:26 Content root path: C:\Users\899074\OneDrive - Cognizant\Desktop\MEPE_Project\RefillMicroservice\RefillMicroservice
+INFO  08:04:27 get refill status
+INFO  08:05:18 Get refill due as of date
+INFO  08:05:43 Get refill due as of date
+INFO  08:06:11 Get Adhoc refill
