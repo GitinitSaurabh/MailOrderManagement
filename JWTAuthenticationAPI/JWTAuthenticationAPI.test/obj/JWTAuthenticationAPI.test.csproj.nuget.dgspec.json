@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/saurabhawasthi/Desktop/FSE/Projects/MailOrderManagement/JWTAuthenticationAPI/JWTAuthenticationAPI.test/JWTAuthenticationAPI.test.csproj": {}
+  },
+  "projects": {
+    "/Users/saurabhawasthi/Desktop/FSE/Projects/MailOrderManagement/JWTAuthenticationAPI/JWTAuthenticationAPI.test/JWTAuthenticationAPI.test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/saurabhawasthi/Desktop/FSE/Projects/MailOrderManagement/JWTAuthenticationAPI/JWTAuthenticationAPI.test/JWTAuthenticationAPI.test.csproj",
+        "projectName": "JWTAuthenticationAPI.test",
+        "projectPath": "/Users/saurabhawasthi/Desktop/FSE/Projects/MailOrderManagement/JWTAuthenticationAPI/JWTAuthenticationAPI.test/JWTAuthenticationAPI.test.csproj",
+        "packagesPath": "/Users/saurabhawasthi/.nuget/packages/",
+        "outputPath": "/Users/saurabhawasthi/Desktop/FSE/Projects/MailOrderManagement/JWTAuthenticationAPI/JWTAuthenticationAPI.test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/saurabhawasthi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/saurabhawasthi/Desktop/FSE/Projects/MailOrderManagement/JWTAuthenticationAPI/JWTAuthenticationAPI/JWTAuthenticationAPI.csproj": {
+                "projectPath": "/Users/saurabhawasthi/Desktop/FSE/Projects/MailOrderManagement/JWTAuthenticationAPI/JWTAuthenticationAPI/JWTAuthenticationAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/saurabhawasthi/Desktop/FSE/Projects/MailOrderManagement/JWTAuthenticationAPI/JWTAuthenticationAPI/JWTAuthenticationAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/saurabhawasthi/Desktop/FSE/Projects/MailOrderManagement/JWTAuthenticationAPI/JWTAuthenticationAPI/JWTAuthenticationAPI.csproj",
+        "projectName": "JWTAuthenticationAPI",
+        "projectPath": "/Users/saurabhawasthi/Desktop/FSE/Projects/MailOrderManagement/JWTAuthenticationAPI/JWTAuthenticationAPI/JWTAuthenticationAPI.csproj",
+        "packagesPath": "/Users/saurabhawasthi/.nuget/packages/",
+        "outputPath": "/Users/saurabhawasthi/Desktop/FSE/Projects/MailOrderManagement/JWTAuthenticationAPI/JWTAuthenticationAPI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/saurabhawasthi/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

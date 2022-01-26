@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95d195af-14a8-422a-8e90-b294d51f8d3b": {
+      "ProjectGuid": "95d195af-14a8-422a-8e90-b294d51f8d3b",
+      "DisplayName": "JWTAuthenticationAPI",
+      "ColorIndex": 0
+    },
+    "7e9f26b2-9701-447c-8834-13456fa34aa3": {
+      "ProjectGuid": "7e9f26b2-9701-447c-8834-13456fa34aa3",
+      "DisplayName": "JWTAuthenticationAPI.test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

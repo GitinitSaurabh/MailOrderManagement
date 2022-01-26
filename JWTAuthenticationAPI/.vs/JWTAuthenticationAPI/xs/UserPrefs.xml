@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{95D195AF-14A8-422A-8E90-B294D51F8D3B}|Default">
+  <MonoDevelop.Ide.ItemProperties.JWTAuthenticationAPI PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JWTAuthenticationAPI/Repository/IAuthRepository.cs">
+    <Files>
+      <File FileName="JWTAuthenticationAPI/Controllers/AuthController.cs" Line="21" Column="44" />
+      <File FileName="JWTAuthenticationAPI/Repository/AuthRepository.cs" Line="55" Column="64" />
+      <File FileName="JWTAuthenticationAPI/appsettings.json" Line="12" Column="19" />
+      <File FileName="JWTAuthenticationAPI/Repository/IAuthRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JWTAuthenticationAPI" expanded="True">
+            <Node name="JWTAuthenticationAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
